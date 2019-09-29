@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genetic-environmental association on Shannon J. O&#39;Leary</title>
+    <link>/tags/genetic-environmental-association/</link>
+    <description>Recent content in genetic-environmental association on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 shannonigans</copyright>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/genetic-environmental-association/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population-level effects of oil exposure on the genetic diversity of demersal fishes</title>
+      <link>/project/oil-spill-demersal-fishes/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/oil-spill-demersal-fishes/</guid>
+      <description>Spatiotemporal comparisons to identify a population-level effect on the genetic diversity of demersal fish populations and genetic-environmental associations correlating genotypes to PAH data sets.</description>
+    </item>
+    
+  </channel>
+</rss>

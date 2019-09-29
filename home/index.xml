@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Shannon J. O&#39;Leary</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 shannonigans</copyright>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>My research has focuses on the molecular ecology and conservation genomics of exploited marine fishes. To achieve this, I use genomic data sets to identify patterns of connectivity and population structure, explore the interaction with and adaptation to the environment on a genetic level, and determine how this applies to marine conservation and management. I am especially interested in understanding how spatial hetergeneity of the landscape results in environmental pressures that shape genetic diversity among populations.</description>
+    </item>
+    
+    <item>
+      <title>Research Questions &amp; Projects</title>
+      <link>/home/research/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/research/</guid>
+      <description>As a broadly-trained evolutionary ecologist, I have developed an extensive tool kit of molecular tools that allows me to address a wide range of questions and collaborate with scientists across disciplines. I am especially interested in pursuing projects with potential applications in aquaculture, management, and conservation.
+USING MOLECULAR MARKERS TO UNDERSTAND MICROEVOLUTIONARY PROCESSES &amp;amp; ECOLOGICAL PATTERNS Connectivity and local adaptation in marine fishes across their ranges
+Projects:
+ Disentangling spatial, environmental, and demographic signals in southern flounder.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Courses  no current courses  Past courses:  Ecology and Evolution (Lecture &amp;amp; Lab, Towson University) Biodiversity (Towson University) Prospects of the Planet Earth (Stony Brook University) Fundamental of Scientific Inquiry in Biological Sciences (Lab, Stony Brook University)  Teaching Philosphy My teaching philosophy in the lab and classroom can be summarized in three statements:
+Learn to ask the right questions, not just to have all the right answers.</description>
+    </item>
+    
+  </channel>
+</rss>

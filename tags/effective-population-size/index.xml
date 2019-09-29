@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>effective population size on Shannon J. O&#39;Leary</title>
+    <link>/tags/effective-population-size/</link>
+    <description>Recent content in effective population size on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 shannonigans</copyright>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/effective-population-size/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic Diversity of Small Populations</title>
+      <link>/project/gen-div-small-pop/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/gen-div-small-pop/</guid>
+      <description>The effect of inbreeding and genetic drift eroding genetic diversity increases with decreasing effective population sizes resulting in a loss of adaptive potential and increased vulnerability to extinction.</description>
+    </item>
+    
+  </channel>
+</rss>

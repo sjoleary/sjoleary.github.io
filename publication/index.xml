@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shannon J. O&#39;Leary</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 shannonigans</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population genetics and geometric morphometrics of the key silverside, Menidia conchorum, a marine fish in a highly-fragmented, inland habitat.</title>
+      <link>/publication/silversides/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/silversides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Diversity of White Sharks, Carcharodon carcharias, in the Northwest Atlantic and Southern Africa.</title>
+      <link>/publication/white-shark-pop-gen/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/white-shark-pop-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic diversity and effective size of Atlantic sturgeon, Acipenser oxyrhinchus oxyrhinchus river spawning populations estimated from the microsatellite genotypes of marine-captured juveniles</title>
+      <link>/publication/sturgeon-pop-gen/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sturgeon-pop-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Severe Inbreeding and Small Effective Number of Breeders in a Formerly Abundant Marine Fish</title>
+      <link>/publication/flounder-pop-gen/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/flounder-pop-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel microsatellite loci for winter flounder (Pseudopleuronectus americanus)</title>
+      <link>/publication/flounder-microsats/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/flounder-microsats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel microsatellite loci for white, Carcharodon carcharias and sandtiger sharks, Carcharias taurus (order Lamniformes)</title>
+      <link>/publication/white-shark-microsat/</link>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/white-shark-microsat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flood pulse effects on benthic invertebrate assemblages in the hypolacustric interstitial zone of Lake Constance</title>
+      <link>/publication/benth-invert/</link>
+      <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/benth-invert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic mixed-stock analysis of Atlantic sturgeon Acipenser oxyrinchus oxyrinchus in a heavily exploited marine habitat indicates the need for routine genetic monitoring</title>
+      <link>/publication/sturgeon-control-region/</link>
+      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sturgeon-control-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Genetic mapping and comparative genomics to inform restoration enhancement and culture of southern flounder, Paralichthys lethostigma</title>
+      <link>/publication/linkmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/linkmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Structure of Atlantic Croakers from the Gulf of Mexico: Evaluating a Single‐Stock Hypothesis Using a Genomic Approach.</title>
+      <link>/publication/croaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/croaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>These aren’t the loci you’e looking for: Principles of effective SNP filtering for molecular ecologists. </title>
+      <link>/publication/snpfilt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/snpfilt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
